@@ -1,0 +1,30 @@
+            .loginform{
+                background-color: #a7dbd8;
+                padding: 20px;
+                margin: 20px auto;
+                border-style: solid;
+                border-width: 1px;
+                border-color:#69d2e7;
+            }
+            .loginwrapper{
+                width: 100%;
+                max-width:340px;
+                margin : 0px auto 0px auto;
+            }
+            input[type=submit]{
+                padding: 0 18px;
+                height: 29px;
+                font-size: 16px;
+                font-weight: bold;
+                color:#a7dbd8;
+                background:#F38630;
+                border: 1px solid;
+            }
+            #new{
+                font-size: 12px;
+                text-align: right;
+                border-width: 1px 0px 0px 0px;
+                border-style: solid;
+                margin-bottom: 0px;
+            }
+            input[type=text], input[type=password] { width: 278px; font-size: 15px } 
